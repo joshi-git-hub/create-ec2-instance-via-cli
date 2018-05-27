@@ -17,4 +17,9 @@
   ~#aws ec2 describe-instances  --output table
 #if you want to know about available zones so fire this next command
  ~#aws ec2 describe-availability-zones --output table
- 
+-----------
+-------------
+--------------
+---------------
+----------------AWS(Amazon web services)------------------
+# this is for testing of pull request
